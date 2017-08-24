@@ -29,5 +29,6 @@ cd org.eclipse.paho.mqtt.python.git
 python setup.py install
 ```
 
-### ![Diagram Explaining the Components in the Car IOT System](/home/pvs/Pictures/Car-IOT.png)
+### Components in the Car IOT System
+![Diagram](https://user-images.githubusercontent.com/31011479/29680465-7cd50212-88b9-11e7-8b3d-917507903f78.png)
 
